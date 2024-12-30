@@ -51,7 +51,3 @@ python3 compress_transfer.py
 - 路径安全检查
 - 错误处理机制
 - 传输重试功能
-
-## 许可证
-
-MIT License
